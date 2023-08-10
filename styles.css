@@ -1,9 +1,10 @@
 body {
 	background: black;
+	font-family: "Preahvihear", sans-serif;
 }
 .postcard {
-	width: 400px;
-	height: 300px;
+	width: 700px;
+	height: 550px;
 	background: white;
 	margin: auto;
 }
@@ -38,8 +39,4 @@ input {
 button {
 	background-color: darkgray;
 	padding: 5px 10px;
-}
-* {
-	border: 1px dashed red;
-	min-height: 10px;
 }
